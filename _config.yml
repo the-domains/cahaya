@@ -1,0 +1,14 @@
+layout_spectrum: 0.2323775
+typography_spectrum: 0.8154121
+color:
+  saturation: 0.0918205
+  lightness: 0.7788144
+  brandStrength: 0.671645
+  rhythmicContrast: 0.1719051
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: 'Cahaya '
